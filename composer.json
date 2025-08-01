@@ -14,8 +14,9 @@
       "email": "info.astrasoft@gmail.com"
     }
   ],
-  "minimum-stability": "stable",
   "require": {
     "php": ">=7.4"
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
