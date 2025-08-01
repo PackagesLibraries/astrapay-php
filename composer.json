@@ -1,0 +1,21 @@
+{
+  "name": "astrasoftwares/astrapay",
+  "description": "AstraPay PHP SDK for M-Pesa STK Push",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Astrapay\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Ishmael Bett",
+      "email": "info.astrasoft@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.4"
+  }
+}
